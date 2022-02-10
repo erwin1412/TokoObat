@@ -1,0 +1,3 @@
+untuk halangan.txt saya buat sendiri karena yang diberi dari eclass tidak bisa di load
+
+catatan: di halangan.txt buatan saya hanya ada 5 button
